@@ -14,7 +14,7 @@ public class JavaApplication10 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.print("hola");
+       System.out.print("hola mundo soy monse");
     }
     
 }
